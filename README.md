@@ -11,8 +11,6 @@
 7. [Recommendation Systems](#recommendation-systems)
 8. [Challenges](#challenges)
 9. [Next Steps](#next-steps)
-10. [Contributing](#contributing)
-11. [License](#license)
 
 ## 1. Introduction
 
@@ -95,12 +93,4 @@ Future improvements and enhancements for the Movie Recommendation System could i
 - Enhancing the user interface for a more visually appealing experience.
 
 Feel free to explore and enjoy the Movie Recommendation System!
-
-## 10. Contributing
-
-Contributions to this project are welcome. Please follow the guidelines in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-## 11. License
-
-This project is licensed under the [MIT License](LICENSE).
 
