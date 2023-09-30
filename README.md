@@ -29,10 +29,10 @@ The installation of the following packages is required:
 - Beautiful Soup
 - Selenium
 - Sklearn
-- numpy
-- hashlib
-- pandas
-- tkinter
+- Numpy
+- Hashlib
+- Pandas
+- Tkinter
 
 In addition, it is necessary to download the proper driver for the Chrome browser according to the user's operating system.
 
